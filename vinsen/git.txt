@@ -1,0 +1,16 @@
+我说的命令行下面的：
+
+1:cd 到你要上传的代码的地方（一般是文件夹）
+2: 然后git  init  （作用创建.git  隐藏文件  目的git关联）
+3:git add des（目标文件或者文件夹）
+4:git commit －m "提交的说明"
+5：git remote add origin url（git的url）（指定上传地址）
+6:git push -u origin master（首次上传）
+
+
+如果是第二次，只是修改了内容，直接git  push  就可以了
+为了防止冲突  可以先git pull（拉取最新的代码）
+
+如果第二次 而且添加了文件或者文件夹  可以git add  然后git commit 
+然后git  push
+
