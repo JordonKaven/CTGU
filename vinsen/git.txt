@@ -14,3 +14,6 @@
 如果第二次 而且添加了文件或者文件夹  可以git add  然后git commit 
 然后git  push
 
+
+我们是多人使用，所以记得push 之前一定要pull
+

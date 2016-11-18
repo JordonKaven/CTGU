@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "DD27AE1E0C3D16178DC62071ED914919BF8BFF45",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "DD27AE1E0C3D16178DC62071ED914919BF8BFF45" : 9223372036854775807,
+    "A2C7DFE9A2B9A5CC2745E1CBA7CC0E086AAE796A" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "FF802770-56BE-41B4-BF1A-C7672CD7F687",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "DD27AE1E0C3D16178DC62071ED914919BF8BFF45" : "github\/",
+    "A2C7DFE9A2B9A5CC2745E1CBA7CC0E086AAE796A" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "demos",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "vinsen\/swift\/demos\/demos.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/VinsenZhang\/STU.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A2C7DFE9A2B9A5CC2745E1CBA7CC0E086AAE796A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/JordonKaven\/CTGU.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DD27AE1E0C3D16178DC62071ED914919BF8BFF45"
+    }
+  ]
+}
